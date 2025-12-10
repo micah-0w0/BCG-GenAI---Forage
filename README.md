@@ -18,21 +18,39 @@ The program is designed to simulate how generative AI can be applied in consulti
 
 ## Structure
 README.md
+
 Financial Report(BCG).ipynb
+
 summary.txt
+
 requirements.txt
+
 finance.db
+
 chatbot.py
+
 templates/
+
   history.html
+  
   index.html
+  
   layout.html
+  
   prompt.html
+
 static/
+
   styles.css
+
 tests/
+
   history.png
+  
   pretest 1.png
+  
   pretest 2.png
+  
   test 1 output.png
+  
   test 2 output.png
