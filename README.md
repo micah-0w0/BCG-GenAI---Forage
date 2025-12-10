@@ -1,6 +1,6 @@
 # BCG-GenAI---Forage
 This repository documents my participation in the BCG GenAI Job Simulation offered through Forage.
-The program is designed to simulate how generative AI can be applied in consulting contexts. While the title references GenAI, the tasks are prompt‑based exercises rather than actual AI model development. I completed 15 structured prompts based financial inquiries.
+The program is designed to simulate how generative AI can be applied in consulting contexts. While the title references GenAI, the tasks are prompt‑based exercises rather than actual AI model development. I completed 15 structured prompts based on financial inquiries.
 
 ## Objectives
 - Explore how generative AI concepts can be applied in business and consulting scenarios.
