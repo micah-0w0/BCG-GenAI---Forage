@@ -2,7 +2,7 @@
 This repository documents my participation in the BCG GenAI Job Simulation offered through Forage.
 The program is designed to simulate how generative AI can be applied in consulting contexts. While the title references GenAI, the tasks are prompt‑based exercises rather than actual AI model development. I completed 15 structured prompts based financial inquiries.
 
-## Objctives
+## Objectives
 - Explore how generative AI concepts can be applied in business and consulting scenarios.
 - Practice designing prompt‑based chatbot interactions for financial use cases.
 - Strengthen skills in structured communication, documentation, and scenario design.
@@ -17,40 +17,22 @@ The program is designed to simulate how generative AI can be applied in consulti
 - Organized structure for easy navigation and review.
 
 ## Structure
-README.md
-
-Financial Report(BCG).ipynb
-
-summary.txt
-
-requirements.txt
-
-finance.db
-
-chatbot.py
-
-templates/
-
-  history.html
-  
-  index.html
-  
-  layout.html
-  
-  prompt.html
-
-static/
-
-  styles.css
-
-tests/
-
-  history.png
-  
-  pretest 1.png
-  
-  pretest 2.png
-  
-  test 1 output.png
-  
-  test 2 output.png
+README.md<br />
+Financial Report(BCG).ipynb<br />
+summary.txt<br />
+requirements.txt<br />
+finance.db<br />
+chatbot.py<br />
+templates/<br />
+  history.html<br />
+  index.html<br />
+  layout.html<br />
+  prompt.html<br />
+static/<br />
+  styles.css<br />
+tests/<br />
+  history.png<br />
+  pretest 1.png<br />
+  pretest 2.png<br />
+  test 1 output.png<br />
+  test 2 output.png<br />
