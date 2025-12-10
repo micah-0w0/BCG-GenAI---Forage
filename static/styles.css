@@ -1,0 +1,49 @@
+/* Nav Bar */
+.container-fluid {
+    width: auto;
+}
+
+/* Main page */
+main {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+/* Chatbot page */
+.chatbot {
+    margin: 0;
+
+    select,
+    button {
+        height: 2rem;
+    }
+
+    select {
+        width: 25rem;
+    }
+
+    section {
+        background: lightgrey;
+        padding: 1rem;
+        margin: 1rem 6rem;
+    }
+}
+
+/* History Page */
+.history {
+
+    h1 {
+        padding: 10px;
+        margin-bottom: 0.5rem;
+    }
+
+    .prompt-history {
+        margin-left: auto;
+        margin-right: auto;
+
+        td {
+            padding: 10px;
+            border: 1px solid black;
+        }
+    }
+}

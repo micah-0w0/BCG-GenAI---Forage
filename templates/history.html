@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Financial Chatbot
+{% endblock %}
+
+{% block main %}
+<div class="history">
+    <h1>Prompt History</h1>
+    <table class="prompt-history">
+        {% for prompt in history %}
+        <tr>
+            <td>{{ prompt.prompt }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Financial Chatbot
+{% endblock %}
+
+{% block main %}
+<div class="chatbot">
+    <h1>Finance Chatbot</h1>
+    <p>Select a query from the dropdown and the bot will answer your question!</p>
+    <form class="query-form"  action="/" method="post">
+        <select class="queries" name="query">
+            {% for query in queries %}
+            <option value={{ query["id"] }}>{{ query["prompt"] }} </option>
+            {% endfor %}
+        </select>
+        <button type="submit">Submit Query</button>
+    </form>
+    <img id="chatbot-icon" src="https://img.icons8.com/?size=100&id=vEVgNpTysT4r&format=png&color=000000">
+    <section class="response">
+        <p>{{ response | replace("\n", "<br>") | safe }}</p>
+    </section>
+</div>
+{% endblock %}
