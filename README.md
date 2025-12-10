@@ -24,15 +24,15 @@ requirements.txt<br />
 finance.db<br />
 chatbot.py<br />
 templates/<br />
-  history.html<br />
-  index.html<br />
-  layout.html<br />
-  prompt.html<br />
+&emsp  history.html<br />
+&emsp  index.html<br />
+&emsp  layout.html<br />
+&emsp  prompt.html<br />
 static/<br />
-  styles.css<br />
+&emsp  styles.css<br />
 tests/<br />
-  history.png<br />
-  pretest 1.png<br />
-  pretest 2.png<br />
-  test 1 output.png<br />
-  test 2 output.png<br />
+&emsp  history.png<br />
+&emsp  pretest 1.png<br />
+&emsp  pretest 2.png<br />
+&emsp  test 1 output.png<br />
+&emsp  test 2 output.png<br />
